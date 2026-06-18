@@ -16,9 +16,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nipunshantha&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nipun-Shantha&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nipunshantha&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 ---
-[![](https://komarev.com/ghpvc/?username=Nipun-Shantha&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=nipunshantha&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
