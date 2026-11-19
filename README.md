@@ -1,6 +1,6 @@
 
 # Hi, I am Nipun Shantha 💫
-## About Me 👨‍💻<br><br>🔭 PhD Research Student at **Kyungpook National University (KNU), South Korea**<br><br>🧠 Working on **Optical Imaging, Deep Learning, Optical Coherence Tomography (OCT), and Photoacoustic Microscopy (PAM)**<br><br>🤝 Interested in collaborations related to **AI, Optical Imaging, Image Processing, and Biomedical Engineering**<br><br>🏆 IEEE Graduate Student Member | Best Paper Award Winner<br><br>⚡ Let's Make Our World a Better Place
+## About Me 👨‍💻<br><br>🔭 PhD Research Student at **Kyungpook National University (KNU), South Korea**<br><br>🧠 Working on **Optical Imaging, Deep Learning, Optical Coherence Tomography (OCT), and Photoacoustic Microscopy (PAM)**<br><br>🤝 Interested in collaborations related to **AI, Optical Imaging, Image Processing, and Biomedical Engineering**<br><br>🏆 IEEE Graduate Student Member | Best Paper Award Winner<br><br>⚡ Let's Make Our World a Better Place  🌐 **Website:** [nipunshantha.com](https://nipunshantha.com)
 
 
 ## 🌐 Socials:
